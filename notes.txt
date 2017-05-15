@@ -1,0 +1,71 @@
+The Problem:
+  The Javascript community is constantly upgrading.
+  New frameworks release faster than new smartphone models.
+  They are always "faster" and "better" than the previous ones.
+
+In software development, we are constantly making improvements.
+
+The improvements arise from new knowledge, breakthroughs, or
+realizing mistakes made. So we can make the argument that
+the onslaught of frameworks is due to nothing more than innovation.
+
+our tendency to jump to technology choices too quickly is
+a systemic problem in our industry.
+
+For example, the redesign of Angular to Angular 2 was due
+to the realization that the original paradigm was not the
+best and that a better approach can and should be taken.
+
+Angular 1 -> 2 illuminated the downside of keeping up with the latest and greatest.
+
+Angular was assured to be the one framework that would satisfy all requirements.
+It obviously was not.
+
+They came to the conclusion their initial concept of their omniscience framework
+was just wrong. So wrong that it required a complete redesign.
+
+This should make any developer take pause and compare the cost/benefit of
+adapting a new framework.
+
+There is no one framework that is objectively “best”.
+Every option has its own strengths and weaknesses.
+Your choice should depend on your own circumstances.
+
+The problem is that you won't know what you're building until you've actually
+built it (Instagram was first called Burbn, and was a completely different service)
+so you need to build a prototype/MVP/thingee first - and to use that you should
+just use whatever the heck you know already.
+
+After you have your prototype, you should analyze it in order to find out what
+your needs are, and then take those needs with you when you wade through the
+vast amount of tools available, which will allow you to find the ones that are
+best for your app, and it's going to be a set of tools, not a single god-Leatherman.
+
+Benefits of switching:
+  -  drastically reduce the time from prototype to production (greatest argument made)
+
+Costs of switching:
+  - the learning curve and the knowledge decay (meaning the time wasted learning the previous framework)
+
+Continuous learning is integral to being a software developer.
+We should be able to build upon the knowledge gained not discard it.
+
+Rather than quickly discarding what has proven to be stable and reliable for
+the “latest and the greatest”,
+pause and exhaustively compare the cost and benefits of adopting.
+
+Don’t be swayed or swept up by hype.
+Be professional and choose what meets the needs of your business.
+
+Making the decision:
+ - Does the current implementation satisfy the requirements?
+  -- No? Can it be improved and built upon?
+  -- No? Why not?
+  -- Did you choose your original tool wisely? Can you improve on that
+     decision for the next one?
+
+Regardless,  remember that keeping up with the latest trend is usually very
+costly unless you're settling for subpar products.
+
+
+https://medium.com/@ZombieCodeKill/choosing-a-javascript-framework-535745d0ab90
