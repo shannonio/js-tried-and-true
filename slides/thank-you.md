@@ -1,5 +1,7 @@
 ##  Thank You
 
+![thanks](https://media.giphy.com/media/l0HlwUsWzHRTkdapi/giphy.gif)
+
 http://shannon.io/js-tried-and-true
 
 note:
